@@ -2,7 +2,7 @@
 
 ### IT Operations & Infrastructure Project Manager | IT Support & Systems Administration
 
-IT operations and infrastructure professional with **8+ years of experience** supporting business systems and coordinating technology projects. I bring together practical service delivery, hands-on infrastructure support, and project coordination. I’m based in Addis Ababa, Ethiopia.
+IT operations and infrastructure professional with **9+ years of experience** supporting business systems and coordinating technology projects. I bring together practical service delivery, hands-on infrastructure support, and project coordination. I’m based in Addis Ababa, Ethiopia.
 
 Currently, I coordinate infrastructure projects from handover and site survey through bid BOQ, installation, and project handover. I lead a **three-person installation team** and am building clearer documentation and repeatable ways of working across project delivery.
 
