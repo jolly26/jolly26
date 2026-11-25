@@ -1,6 +1,6 @@
 # Mulugeta Ashango
 
-### IT Operations & Infrastructure Project Manager | IT Support & Systems Administration
+### IT Operations & Infrastructure Project Manager | IT Support & Systems Administration | Cyber security and AI Enthusiast
 
 IT operations and infrastructure professional with **9+ years of experience** supporting business systems and coordinating technology projects. I bring together practical service delivery, hands-on infrastructure support, and project coordination. I’m based in Addis Ababa, Ethiopia.
 
