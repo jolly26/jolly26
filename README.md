@@ -52,7 +52,9 @@ Currently, I coordinate infrastructure projects from handover and site survey th
 
 - **BSc, Electrical and Computer Engineering (Computer Engineering stream)** — Jimma University, 2009–2014
 - CompTIA Security+ · ITIL 4 Foundation · Cisco Cybersecurity Essentials
-
+## Language
+- Amharic -Native speaker
+- English -Full professional proficiency
 ## Personal project
 
 ### [Digital Equb — Android](https://github.com/jolly26/DigitalEqub_android)
